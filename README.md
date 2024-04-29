@@ -22,7 +22,7 @@ Write the C Program using Linux Process API - pipe(), fifo()
 Testing the C Program for the desired output. 
 
 # PROGRAM:
-
+DEVELOPED BY:VESLIN ANISH REGISTER NUMBER:212223240175
 ## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
 ~~~
 #include<stdio.h>
@@ -82,7 +82,8 @@ write(wfd,buff,n);
 ~~~
 ## OUTPUT
 
-![322687750-e9242169-e755-465e-8920-f76311cec477](https://github.com/04Varsha/Linux-IPC-Pipes/assets/149035374/06a1ea90-65cb-4c36-abb6-526d317dab29)
+![WhatsApp Image 2024-04-29 at 23 12 35_a153d0c1](https://github.com/veslin23000303/Linux-IPC-Pipes/assets/151148539/1197b972-de93-41f3-9500-3113e3bb5bac)
+
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 ~~~
@@ -98,7 +99,8 @@ exit(EXIT_SUCCESS);
 ~~~
 ## OUTPUT
 
-![322687908-9bf64338-0839-4817-96e3-7af7b5be51e7](https://github.com/04Varsha/Linux-IPC-Pipes/assets/149035374/57ac78be-f304-4a74-ba73-73bc1fb7a3a3)
+![WhatsApp Image 2024-04-29 at 23 13 38_39a2b4ff](https://github.com/veslin23000303/Linux-IPC-Pipes/assets/151148539/3ed48396-8dbc-4958-abbf-195a14c4b757)
+
 
 # RESULT:
 The program is executed successfully.
